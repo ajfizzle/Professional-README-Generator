@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Title: Professional README Generator
 Bootcamp HTML /CSS exercise - Module 9 Challenge
 
@@ -61,7 +60,7 @@ After installing the application, run `node index.js` in your terminal. Follow t
 To run tests, use the command `node index.js` in your terminal.
 
 ## Preview / Screenshot
-
+![alt text](Professional-README-Generator.gif)
 
 ## Contact
 For more projects and information about the developer, please visit:
@@ -77,7 +76,3 @@ This project is licensed under MIT License.
 
 
 
-=======
-# Professional-README-Generator
-Module 9 Challenge
->>>>>>> c84a37879c9a320d15623e695b142e953787e01a
