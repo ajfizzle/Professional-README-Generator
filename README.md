@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title: Professional README Generator
 Bootcamp HTML /CSS exercise - Module 9 Challenge
 
@@ -76,3 +77,7 @@ This project is licensed under MIT License.
 
 
 
+=======
+# Professional-README-Generator
+Module 9 Challenge
+>>>>>>> c84a37879c9a320d15623e695b142e953787e01a
