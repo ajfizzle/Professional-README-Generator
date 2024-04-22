@@ -57,7 +57,7 @@ After installing the application, run `node index.js` in your terminal. Follow t
 
 
 ## Tests
-To run tests, use the command `node index.js` in your terminal then follow prompt.
+To run tests, use the command "npm test" in your terminal then follow prompt.
 
 ## Preview / Screenshot
 ![alt text](Professional-README-Generator.gif)
